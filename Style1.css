@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+body{
+    font-family: 'Dokdo', cursive;
+    color: rgb(15, 6, 129);
+    
+
+}
+.Carros1{
+    margin: auto;
+    width: 75%;
+    border: 5px;
+    padding: 10px;
+}
+.Carros1{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.text{
+    float: left;
+    width: 30%;
+}
+.About{
+    text-align: right;
+}
+.Cabecera{
+    text-align: right;
+    color: blue;
+}
+.Boton{
+    text-align: right;
+}
+footer{
+    border-top: 100%;
+}
